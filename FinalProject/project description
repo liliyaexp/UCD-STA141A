@@ -1,0 +1,10 @@
+The dataset consists of 60000 32 × 32 color (RBG) images in 10 classes, with 6000 images per class. 
+The 10 classes are: airplane, automobile, bird, cat, deer, dog, frog, horse, ship and truck. 
+There are 50000 training images and 10000 test images. 
+The main purpose of this final project is to develop a machine learning algorithm that can automatically recognize test images. 
+The machine learning algorithm is trained by the large amount of training images and we explore different ways to optimize the algorithm.
+
+The dataset is divided into five training batches and one test batch, each with 10000 images. 
+The test batch contains exactly 1000 randomly-selected images from each class. 
+The training batches contain the remaining images in random order, but some training batches may contain more images from one class than another. 
+Between them, the training batches contain exactly 5000 images from each class.
