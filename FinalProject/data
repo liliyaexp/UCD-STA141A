@@ -1,0 +1,16 @@
+Since the data files are in very large sizes, they couldn't be uploaded to Github.
+
+Click the below link for download in Google Drive:
+https://drive.google.com/open?id=1RlmAPxqMswoq6TdynhQCESNknXYkckR8
+
+The files are:
+    batches.meta.txt
+    data_batch_1.bin
+    data_batch_2.bin
+    data_batch_3.bin
+    data_batch_4.bin
+    data_batch_5.bin
+    test_batch.bin
+    testing_set.rds
+    training_set.rds
+    
