@@ -1,3 +1,5 @@
+Team members: Liya Li, Sihui Li, Chengchen Luo
+
 The dataset consists of 60000 32 × 32 color (RBG) images in 10 classes, with 6000 images per class. 
 The 10 classes are: airplane, automobile, bird, cat, deer, dog, frog, horse, ship and truck. 
 There are 50000 training images and 10000 test images. 
